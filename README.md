@@ -23,7 +23,7 @@ repositories on GitHub.
 - Spring caching - Caffeine
 - Fault tolerance support - Resilience4j
 - Includes Integration and unit test
-
+- API documentation
 
 ## Live
 
