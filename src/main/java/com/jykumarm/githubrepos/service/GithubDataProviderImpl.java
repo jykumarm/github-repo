@@ -1,6 +1,6 @@
-package com.jykumarm.githubrepos.controller.service;
+package com.jykumarm.githubrepos.service;
 
-import com.jykumarm.githubrepos.controller.models.GithubReposResponse;
+import com.jykumarm.githubrepos.models.GithubReposResponse;
 import io.github.resilience4j.retry.annotation.Retry;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

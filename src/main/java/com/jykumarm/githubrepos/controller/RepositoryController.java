@@ -1,8 +1,8 @@
 package com.jykumarm.githubrepos.controller;
 
-import com.jykumarm.githubrepos.controller.dto.RepositoriesDto;
-import com.jykumarm.githubrepos.controller.models.RepositoryQuery;
-import com.jykumarm.githubrepos.controller.service.RepositoryService;
+import com.jykumarm.githubrepos.dto.RepositoriesDto;
+import com.jykumarm.githubrepos.models.RepositoryQuery;
+import com.jykumarm.githubrepos.service.RepositoryService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.format.annotation.DateTimeFormat;
 import org.springframework.web.bind.annotation.GetMapping;

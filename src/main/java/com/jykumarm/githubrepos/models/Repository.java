@@ -1,4 +1,4 @@
-package com.jykumarm.githubrepos.controller.models;
+package com.jykumarm.githubrepos.models;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;

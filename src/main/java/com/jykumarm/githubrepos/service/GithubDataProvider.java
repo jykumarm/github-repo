@@ -1,6 +1,6 @@
-package com.jykumarm.githubrepos.controller.service;
+package com.jykumarm.githubrepos.service;
 
-import com.jykumarm.githubrepos.controller.models.GithubReposResponse;
+import com.jykumarm.githubrepos.models.GithubReposResponse;
 
 import java.util.Date;
 

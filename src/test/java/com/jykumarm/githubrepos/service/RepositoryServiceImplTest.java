@@ -1,13 +1,9 @@
-package com.jykumarm.githubrepos.controller.service;
+package com.jykumarm.githubrepos.service;
 
-import com.jykumarm.githubrepos.controller.models.GithubReposResponse;
-import com.jykumarm.githubrepos.controller.models.Repository;
-import com.jykumarm.githubrepos.controller.models.RepositoryQuery;
-import org.aspectj.lang.annotation.Before;
-import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.BeforeAll;
+import com.jykumarm.githubrepos.models.GithubReposResponse;
+import com.jykumarm.githubrepos.models.Repository;
+import com.jykumarm.githubrepos.models.RepositoryQuery;
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.TestInstance;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;

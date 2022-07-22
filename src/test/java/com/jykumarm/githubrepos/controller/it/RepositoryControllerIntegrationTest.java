@@ -1,7 +1,7 @@
 package com.jykumarm.githubrepos.controller.it;
 
 import com.jykumarm.githubrepos.GithubReposApplication;
-import com.jykumarm.githubrepos.controller.dto.RepositoriesDto;
+import com.jykumarm.githubrepos.dto.RepositoriesDto;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

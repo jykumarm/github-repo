@@ -1,4 +1,4 @@
-package com.jykumarm.githubrepos.controller.models;
+package com.jykumarm.githubrepos.models;
 
 import lombok.Builder;
 import lombok.Data;

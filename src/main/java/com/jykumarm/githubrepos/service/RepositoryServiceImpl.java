@@ -1,7 +1,7 @@
-package com.jykumarm.githubrepos.controller.service;
+package com.jykumarm.githubrepos.service;
 
-import com.jykumarm.githubrepos.controller.dto.RepositoriesDto;
-import com.jykumarm.githubrepos.controller.models.RepositoryQuery;
+import com.jykumarm.githubrepos.dto.RepositoriesDto;
+import com.jykumarm.githubrepos.models.RepositoryQuery;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

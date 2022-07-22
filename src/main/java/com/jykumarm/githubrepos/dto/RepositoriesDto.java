@@ -1,6 +1,6 @@
-package com.jykumarm.githubrepos.controller.dto;
+package com.jykumarm.githubrepos.dto;
 
-import com.jykumarm.githubrepos.controller.models.Repository;
+import com.jykumarm.githubrepos.models.Repository;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
