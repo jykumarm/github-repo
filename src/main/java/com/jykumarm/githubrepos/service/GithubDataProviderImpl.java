@@ -67,7 +67,7 @@ public class GithubDataProviderImpl implements GithubDataProvider {
         var apiBuilder = new StringBuilder(GITHUB_API);
 
         if (!ObjectUtils.isEmpty(language)) {
-            apiBuilder.append("language:").append(language).append("&");
+            apiBuilder.append("language:").append(language).append("+");
         }
         if (!ObjectUtils.isEmpty(date)) {
             apiBuilder.append("created:>").append(new SimpleDateFormat("yyyy-MM-dd").format(date)).append("&");
